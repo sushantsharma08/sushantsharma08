@@ -7,6 +7,8 @@
 - 🥅 2022 Goals: work on web dev and blockchain technology
 - ⚡ Fun fact: I love to play many sports and learn about outer Space 
 
+---
+
 ### Connect with me:
 
 <div align="left">
@@ -14,6 +16,9 @@
         <a href="mailto:sushantsharmadev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <br/>
+
+
+---
 
 ### Languages and Tools:
 
@@ -30,5 +35,16 @@
 
 ---
 
-[portfolio] (https://susahntsharmadev.com)
-[instagram] (https://www.instagram.com/sushant_sharma2/)
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushantsharma08&show_icons=true&theme=tokyonight&show_icons=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantsharma08&theme=tokyonight" />
+</p>
+
+---
+
+[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantsharma08&theme=xcode)](https://git.io/sushantsharma08)
+
+---
+
+[portfolio](https://susahntsharmadev.com)
+[instagram](https://www.instagram.com/sushant_sharma2/)
