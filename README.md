@@ -1,4 +1,4 @@
-# sushantsharma08
+# Hi there 👋, I'm [Sushant sharma](https://sushantsharmadev.com)
 ## I'm a Student, Learner and Developer !!
 
 - 🔭 My aim is to learn and excel
@@ -30,7 +30,5 @@
 
 ---
 
-
-
-[portfolio]: https://susahntsharmadev.com
-[instagram]: https://www.instagram.com/sushant_sharma2/
+[portfolio] (https://susahntsharmadev.com)
+[instagram] (https://www.instagram.com/sushant_sharma2/)
