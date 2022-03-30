@@ -47,5 +47,8 @@
 
 ---
 
-[portfolio](https://susahntsharmadev.com)
-[instagram](https://www.instagram.com/sushant_sharma2/)
+[Portfolio](https://susahntsharmadev.com)
+
+<br />
+
+[Instagram](https://www.instagram.com/sushant_sharma2/)
