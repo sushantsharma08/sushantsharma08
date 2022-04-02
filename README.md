@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Sushant sharma](https://sushantsharmadev.com)
+# Hello Folks, I'm [Sushant sharma](https://sushantsharmadev.com)
 ## I'm a Student, Learner and Developer !!
 
 - 🔭 My aim is to learn and excel
