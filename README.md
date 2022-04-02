@@ -45,7 +45,7 @@
 
 ---
 
--> Check out my [Portfolio](https://susahntsharmadev.com)
+-> Check out my [Portfolio](https://sushantsharmadev.com)
 <br />
 
 -> Connect with me on [Instagram](https://www.instagram.com/sushant_sharma2/)
