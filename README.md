@@ -3,7 +3,7 @@
 <img align="right" width="250px" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
 
 - 🔭 My aim is to learn and excel
-- 🌱 IJust figuring out things!!!
+- 🌱 Just figuring out stuff !!!
 - 👯 I work and learn with my friends 
 - 🥅 2022 Goals: work on web dev and blockchain technology
 - ⚡ Fun fact: I love to play many sports and learn about outer Space 
