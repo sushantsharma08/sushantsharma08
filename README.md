@@ -1,6 +1,6 @@
 # Hello Folks, I'm [Sushant sharma](https://sushantsharmadev.com)
 ## I'm a Student, Learner and Developer !!!
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.memesmonkey.com%2Ftopic%2Fcomputer%2Bstick%2Bfigure&psig=AOvVaw0I4v63PnLKq2n9i91w7eZt&ust=1649216588066000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDZ59mA_PYCFQAAAAAdAAAAABAD">
+<img align="right" src="https%3A%2F%2Fwww.memesmonkey.com%2Ftopic%2Fcomputer%2Bstick%2Bfigure&psig=AOvVaw0I4v63PnLKq2n9i91w7eZt&ust=1649216588066000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDZ59mA_PYCFQAAAAAdAAAAABAD">
 
 - 🔭 My aim is to learn and excel
 - 🌱 IJust figuring out things!!!
