@@ -1,8 +1,9 @@
 # Hello Folks, I'm [Sushant sharma](https://sushantsharmadev.com)
-## I'm a Student, Learner and Developer !!
+## I'm a Student, Learner and Developer !!!
+<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.memesmonkey.com%2Ftopic%2Fcomputer%2Bstick%2Bfigure&psig=AOvVaw0I4v63PnLKq2n9i91w7eZt&ust=1649216588066000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDZ59mA_PYCFQAAAAAdAAAAABAD">
 
 - 🔭 My aim is to learn and excel
-- 🌱 I’m currently figuring out web-devlopment
+- 🌱 IJust figuring out things!!!
 - 👯 I work and learn with my friends 
 - 🥅 2022 Goals: work on web dev and blockchain technology
 - ⚡ Fun fact: I love to play many sports and learn about outer Space 
