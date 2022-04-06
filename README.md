@@ -1,6 +1,6 @@
 # Hello Folks, I'm [Sushant sharma](https://sushantsharmadev.com)
 ## I'm a Student, Learner and Developer !!!
-<img align="right" width="17%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
+<img align="right" width="20%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
 
 - 🔭 My aim is to learn and excel
 - 🌱 Just figuring out stuff !!!
