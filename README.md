@@ -10,15 +10,6 @@
 
 ---
 
-### Connect with me:
-
-<div align="left">
-        <a href="https://www.instagram.com/sushant_sharma2/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-        <a href="mailto:sushantsharmadev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
----
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
