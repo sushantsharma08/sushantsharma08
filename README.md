@@ -47,10 +47,6 @@
 
 ---
 
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantsharma08&theme=xcode)](https://git.io/sushantsharma08)
-
----
-
 -> Check out my [Portfolio](https://sushantsharmadev.com)
 <br />
 -> Connect with me on [Instagram](https://www.instagram.com/sushant_sharma2/)
