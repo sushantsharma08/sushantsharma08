@@ -2,7 +2,7 @@
 ## I'm a Student, Learner and Developer !!!
 <img align="right" width="22%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
 ---
-<h3 align="left">I work with</h3>
+<h3 align="left">I work with the following:</h3>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -26,6 +26,6 @@
 
 ---
 
--> Know more about me : [Portfolio](https://sushantsharmadev.com)
+Know more about me : [Portfolio](https://sushantsharmadev.com)
 <br />
--> Mail me at ssushantsharmadev@gmail.com
+Mail me at ssushantsharmadev@gmail.com
