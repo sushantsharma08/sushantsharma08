@@ -30,4 +30,4 @@
 
 Know more about me : [Portfolio](https://sushantsharmadev.com)
 <br />
-Mail me at ssushantsharmadev@gmail.com
+Mail me at sushantsharmadev@gmail.com
