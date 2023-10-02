@@ -1,5 +1,5 @@
 # [Sushant sharma](https://sushantsharmadev.com)
-## I'm a Student, Learner and Developer !!!
+<h2> I'm a Student, Learner and Developer !!! </h2>
 <img align="right" width="22%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
 
 <h3 align="left">I work with the following:</h3>
