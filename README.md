@@ -1,9 +1,9 @@
 # [Sushant sharma](https://sushantsharmadev.com)
 <h2> I'm a Student, Learner and Developer !!! </h2>
 <img align="right" width="22%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
-- 🔭 I’m currently working on React, Arduino and IoT
+- 🔭 I’m currently working on Gen AI, React, Arduino and IoT
 <br/>
-- 🌱 I’m currently learning **Arduino, Rust, React, ...**
+- 🌱 I’m currently learning **Arduino, Gen.AI, React and Python**
 <br/>
 
 - 💬 Ask me about **React, NodeJs**
